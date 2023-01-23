@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yiang Li, I am a master student in Computational Social Science at Social Science Division, University of Chicago.
-- 👀 My research interests lie in the intersection of data science and sociology, with a focus on aging, health, and education. Other than research, I have had multiple experiences working as an intern data engineer in industries.
+- 👀 My research primarily focuses on four areas in quantitative sociology: Aging and Life Course, Social Demography, Social Determinants of Health, and Social Policy. My primary research motivation is to use data science and/or computational techniques to 1) improve the understanding of how social conditions affect health outcomes, 2) examine the early-life drivers behind late-life health inequalities, and 3) evaluate social policies attempting to address inequalities.
 - 💞️ I’m looking to collaborate on research projects in quantitative sociology and social statistics.
 - 📫 You can reach me via yiangli@uchicago.edu
 
